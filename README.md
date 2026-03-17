@@ -1,7 +1,7 @@
 # 💰 Railway Billing Data Analysis
 
 ## 📌 Project Overview
-This project focuses on analyzing railway billing datasets to validate transactions, detect inconsistencies, and generate financial insights.
+This project focuses on analyzing railway billing datasets to validate invoice transactions, detect inconsistencies, and generate financial insights for operational efficiency.
 
 ---
 
@@ -12,19 +12,30 @@ This project focuses on analyzing railway billing datasets to validate transacti
 ---
 
 ## 📊 Key Analysis Performed
-- Invoice validation and transaction checks  
-- Billing amount analysis  
-- Identification of inconsistencies in billing data  
-- Data extraction using SQL queries  
+- Invoice validation and transaction consistency checks  
+- Billing amount analysis across datasets  
+- Identification of mismatches and anomalies  
+- Data extraction and querying using SQL  
 
 ---
 
 ## 📈 Insights Generated
 - Improved accuracy of billing records  
-- Identified mismatched transactions  
-- Generated financial reports  
+- Identified mismatched and incorrect transactions  
+- Generated structured financial reports  
 
 ---
+
+## 🎯 Outcome
+Ensured data reliability and supported financial decision-making through detailed billing data analysis.
+
+---
+
+## 📎 Use Case
+This project helps organizations:
+- Improve billing accuracy  
+- Detect financial discrepancies  
+- Enhance reporting efficiency  
 
 ## 🎯 Outcome
 Ensured data accuracy and supported financial decision-making through detailed billing analysis.
