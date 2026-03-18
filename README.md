@@ -1,34 +1,41 @@
-# 💰 Railway Billing Data Analysis
-
-## 📌 Project Overview
-This project analyzes railway billing data to track revenue, detect anomalies, and improve financial operations.
-
----
-
-## 🎯 Objective
-- Analyze billing trends  
-- Identify revenue patterns  
-- Improve operational efficiency  
+# 💰 Railway Billing Data Analysis (BTS - RailTel Project)
+## 📊 Project Overview
+This project focuses on analyzing real-world railway billing datasets to validate invoices, detect inconsistencies, and improve financial workflow accuracy.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🎯 Objectives
+- Validate billing data and detect inconsistencies  
+- Identify revenue patterns and anomalies  
+- Improve billing workflow accuracy and efficiency  
+
+---
+
+## 🚀 Key Contributions
+- Performed data analysis using SQL and Excel on billing datasets  
+- Identified discrepancies and ensured invoice accuracy  
+- Generated reports to support financial operations  
+- Improved efficiency in detecting billing issues  
+
+---
+
+## 🛠 Tech Stack
 - SQL  
 - Excel  
 
 ---
 
-## 📊 Key Insights
+## 📈 Key Insights
 - Identified revenue trends  
-- Detected inconsistencies in billing  
+- Detected inconsistencies in billing data  
 - Improved reporting accuracy  
 
 ---
 
-## 📁 Dataset
-- Railway billing dataset (sample)
+## 📂 Dataset
+- Railway billing dataset (simulated/real-world structured data)
 
 ---
 
-## 📌 Conclusion
-This project provides valuable insights into railway billing systems and supports better financial decision-making.
+## ✅ Outcome
+This project demonstrates practical experience in handling real-world billing data, ensuring accuracy, and supporting operational decision-making in railway systems.
